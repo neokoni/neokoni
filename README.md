@@ -7,7 +7,7 @@
 
 ## 设备 | Devices
 [![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)
-[![Lenovo TB-X504F](https://img.shields.io/badge/Lenovo%20TBX504F-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1007405.html)
+[![Lenovo TB-X504F](https://img.shields.io/badge/Lenovo%20TB%2DX504F-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1007405.html)
 [![iPhone X](https://img.shields.io/badge/iPhone%20X-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP770)
 
 ## 联系我 | Contact me
