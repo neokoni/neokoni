@@ -2,7 +2,7 @@
 ### About me
 A 16-year-old student from Nanchong, Sichuan  
 Like stay alone and rainy days
-### My habbies
+### My hobbies
 Likes to toss all kinds of interesting things  
 Likes to  play minecraft and have a little survival server  
 Love listening to calm pure music  
