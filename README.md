@@ -12,4 +12,4 @@ Waste money on cloud servers(just a jok)
 [![douyin](https://img.shields.io/badge/douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAAsfXuZcbYL7t_uuGVyEQtxxiYdKO9VpZobI52IAdoAB8)
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Neokoni)
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sekaom)
-[![Twitter](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sekaom081682)
+<!---- [![Twitter](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sekaom081682) ---> 
