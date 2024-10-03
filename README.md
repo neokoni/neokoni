@@ -9,7 +9,7 @@ And everything you think I can be?
 - play vscode
 - I don't know...
 ## 📑what in plan
-- ~~new sponsorship site~~
+- ~~new sponsorship site~~✔
 - new personal site
 - new mc server docs
 - unset...waiting...
