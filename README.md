@@ -10,7 +10,7 @@ And everything you think I can be?
 - I don't know...
 ## 📑what in plan
 - new personal site
-- LightUpdater(Minecraft plugin
+- LightUpdater(Minecraft plugin，WIP
 - new mc server docs
 - unset...waiting...
 ## 💡keep in touch
