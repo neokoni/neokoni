@@ -9,8 +9,8 @@ And everything you think I can be?
 - play vscode
 - I don't know...
 ## 📑what in plan
-- ~~new sponsorship site~~✔
 - new personal site
+- LightUpdater(Minecraft plugin
 - new mc server docs
 - unset...waiting...
 ## 💡keep in touch
