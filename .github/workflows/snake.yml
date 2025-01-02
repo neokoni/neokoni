@@ -23,9 +23,13 @@ jobs:
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
             ./assets/github-contribution-grid-snake.gif
             ./assets/github-contribution-grid-snake-dark.gif?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Generate Contribution Snake'
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
