@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: github-actions
+          github_user_name: neokoni
           outputs: |
             ./assets/github-contribution-grid-snake.svg
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -28,4 +28,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Generate Contribution Snake'
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "GitHub Actions"
           branch: main
