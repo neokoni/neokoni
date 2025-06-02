@@ -11,7 +11,6 @@ And everything you think I can be?
 ## 📑what in plan
 - new personal site
 - LightUpdater(Minecraft plugin，WIP
-- new mc server docs
 - unset...waiting...
 ![](https://raw.githubusercontent.com/neokoni/neokoni/refs/heads/main/assets/github-contribution-grid-snake.svg)
 ## 💡keep in touch
