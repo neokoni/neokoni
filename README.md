@@ -4,7 +4,7 @@ And everything you think I can be?
 ![GitHub stats](https://github-readme-stats.services.neokoni.ink/api?username=neokoni&theme=default&show_icons=true&hide_border=true&count_private=true)  
 ![](https://raw.githubusercontent.com/neokoni/neokoni/refs/heads/main/assets/github-contribution-grid-snake.svg)  
 ## 🌠interested in 
-- mess around and lie flat
+- Speed much time on some abstract things
 - Music Games
 - I don't know...
 ## 📑what in plan
